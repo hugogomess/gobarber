@@ -1,2 +1,2 @@
-# Gobarber Front End
-Reacts.js Gobarber front-end
+# GoBarber Front-End
+ReactJS GoBarber front-end
