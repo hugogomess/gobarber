@@ -1,2 +1,3 @@
 # GoBarber Front-End
-ReactJS GoBarber front-end
+
+React GoBarber Front-End
